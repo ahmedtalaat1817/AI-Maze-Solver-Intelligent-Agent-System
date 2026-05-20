@@ -1,0 +1,4 @@
+Maze Solver Log  2026-05-09 15:05:53
+
+[OK] BFS on Level 1  steps=22 cost=40 nodes=81 time=0.0002s
+[OK] DFS on Level 1  steps=74 cost=92 nodes=86 time=0.0003s

@@ -1,0 +1,7 @@
+Maze Solver Log  2026-05-09 14:58:45
+
+[OK] BFS on Level 3  steps=41 cost=45 nodes=138 time=0.0003s
+[OK] DFS on Level 3  steps=105 cost=113 nodes=244 time=0.0009s
+[OK] UCS on Level 3  steps=41 cost=45 nodes=134 time=0.0006s
+[OK] Greedy on Level 3  steps=41 cost=45 nodes=42 time=0.0003s
+[OK] A* on Level 3  steps=41 cost=45 nodes=79 time=0.0004s

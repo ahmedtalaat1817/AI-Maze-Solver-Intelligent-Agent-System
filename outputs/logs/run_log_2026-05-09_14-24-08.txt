@@ -1,0 +1,13 @@
+Maze Solver Challenge - Run Log
+Date: 2026-05-09 14:24:08
+
+[SUCCESS] BFS on Level 1
+  - Steps: 22 | Cost: 40
+  - Nodes Expanded: 81 | Time: 0.0002s
+  - Avg Risk: 8.69% | Deaths: 0
+
+[SUCCESS] DFS on Level 1
+  - Steps: 46 | Cost: 50
+  - Nodes Expanded: 47 | Time: 0.0001s
+  - Avg Risk: 0.00% | Deaths: 0
+

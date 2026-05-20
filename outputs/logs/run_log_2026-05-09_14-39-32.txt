@@ -1,0 +1,6 @@
+Maze Solver — Run Log  2026-05-09 14:39:32
+
+[SUCCESS] BFS on Level 3
+  Steps:41  Cost:45  Nodes:138  Time:0.0008s
+  AvgRisk:2.38%  Deaths:0
+

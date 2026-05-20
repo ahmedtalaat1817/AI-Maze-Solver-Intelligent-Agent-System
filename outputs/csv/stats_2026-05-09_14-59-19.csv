@@ -1,0 +1,2 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Random 25x17,BFS,True,29,41,199,0.00042811428595866473,0,9.881273798432829e-08,2.04633928328758e-06,False,True,Goal reached.

@@ -1,0 +1,2 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Level 3,BFS,True,41,45,138,0.000276514287439308,0,0.02380509555172804,0.9998140131725777,False,False,Goal reached.

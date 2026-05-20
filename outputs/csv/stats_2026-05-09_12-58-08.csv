@@ -1,0 +1,2 @@
+algo,path_len,nodes,time,success,death,deaths,limited_vis,generated,level,path_cost
+A*,53,116,0.0005021999822929502,True,False,0,False,False,Level 1,53

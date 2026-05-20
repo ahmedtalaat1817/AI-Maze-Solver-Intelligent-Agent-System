@@ -1,0 +1,11 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Level 4,BFS,True,53,53,142,0.0005930999759584665,0,5.0364744881473465e-52,2.7195762046029365e-50,False,False,Offline fair comparison on Level 4
+Level 4,DFS,True,97,97,102,0.0002964999875985086,0,2.775200228162795e-52,2.7195762046029365e-50,False,False,Offline fair comparison on Level 4
+Level 4,UCS,True,53,53,142,0.000582000007852912,0,5.0364744881473465e-52,2.7195762046029365e-50,False,False,Offline fair comparison on Level 4
+Level 4,Greedy,True,65,65,88,0.0002856000210158527,0,4.120751853938696e-52,2.7195762046029365e-50,False,False,Offline fair comparison on Level 4
+Level 4,A*,True,53,53,124,0.0005246999789960682,0,5.0364744881473465e-52,2.7195762046029365e-50,False,False,Offline fair comparison on Level 4
+Random Hard,BFS,True,122,269,353,0.0009461999870836735,0,0.09755229205593326,1.0,False,True,Offline fair comparison on generated hard seed 12
+Random Hard,DFS,True,122,269,173,0.0004865999799221754,0,0.09755229205593326,1.0,False,True,Offline fair comparison on generated hard seed 12
+Random Hard,UCS,True,122,269,354,0.0016252999776042998,0,0.09755229205593326,1.0,False,True,Offline fair comparison on generated hard seed 12
+Random Hard,Greedy,True,122,269,303,0.001415699953213334,0,0.09755229205593326,1.0,False,True,Offline fair comparison on generated hard seed 12
+Random Hard,A*,True,122,269,330,0.0015796000370755792,0,0.09755229205593326,1.0,False,True,Offline fair comparison on generated hard seed 12

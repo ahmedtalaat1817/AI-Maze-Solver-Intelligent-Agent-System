@@ -1,0 +1,4 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Random Easy,BFS,True,51,88,165,0.00045629998203366995,0,0.038461538357554864,0.9999999999999425,False,True,Goal reached.
+Random Easy,DFS,True,51,88,52,0.0001362999901175499,0,0.038461538357554864,0.9999999999999425,False,True,Goal reached.
+Random Easy,UCS,True,51,88,149,0.0007848000386729836,0,0.038461538357554864,0.9999999999999425,False,True,Goal reached.

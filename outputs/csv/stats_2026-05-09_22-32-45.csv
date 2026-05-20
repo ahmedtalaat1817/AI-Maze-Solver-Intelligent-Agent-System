@@ -1,0 +1,6 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Level 1,BFS,True,22,40,81,8.979999776264387e-05,0,0.08691055960130037,0.9995239492380119,False,False,Goal reached.
+Level 1,DFS,True,74,92,86,0.00028977143145831566,0,0.026652571827720975,0.9995239492380119,False,False,Goal reached.
+Level 1,UCS,True,26,34,90,0.00019374286057427526,0,1.2312651705535527e-16,1.824861819780759e-15,False,False,Goal reached.
+Level 1,Greedy,True,22,40,23,3.762857107046459e-05,0,0.08691055960130037,0.9995239492380119,False,False,Goal reached.
+Level 1,A*,True,26,34,57,0.00015151428773866167,0,1.2312651705535527e-16,1.824861819780759e-15,False,False,Goal reached.

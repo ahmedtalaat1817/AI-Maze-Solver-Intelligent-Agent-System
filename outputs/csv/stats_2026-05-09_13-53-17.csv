@@ -1,0 +1,3 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Level 1,BFS,True,52,52,126,0.0003244000254198909,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Goal reached.
+Level 1,DFS,True,52,52,116,0.00031640002271160483,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Goal reached.

@@ -1,0 +1,22 @@
+Maze Solver — Run Log  2026-05-09 14:39:09
+
+[SUCCESS] BFS on Level 1
+  Steps:22  Cost:40  Nodes:81  Time:0.0002s
+  AvgRisk:8.69%  Deaths:0
+
+[SUCCESS] DFS on Level 1
+  Steps:46  Cost:50  Nodes:47  Time:0.0002s
+  AvgRisk:0.00%  Deaths:0
+
+[SUCCESS] UCS on Level 1
+  Steps:26  Cost:34  Nodes:92  Time:0.0004s
+  AvgRisk:0.00%  Deaths:0
+
+[SUCCESS] Greedy on Level 1
+  Steps:22  Cost:40  Nodes:23  Time:0.0002s
+  AvgRisk:8.69%  Deaths:0
+
+[SUCCESS] A* on Level 1
+  Steps:26  Cost:34  Nodes:57  Time:0.0003s
+  AvgRisk:0.00%  Deaths:0
+

@@ -1,0 +1,6 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Level 1,BFS,True,52,52,126,0.00030610000248998404,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Offline fair comparison
+Level 1,DFS,True,52,52,116,0.0004314000252634287,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Offline fair comparison
+Level 1,UCS,True,52,52,126,0.00047560001257807016,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Offline fair comparison
+Level 1,Greedy,True,52,52,116,0.0003798000398091972,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Offline fair comparison
+Level 1,A*,True,52,52,116,0.0004957999917678535,0,3.3719782588647054e-11,1.112294254828847e-09,False,False,Offline fair comparison

@@ -1,0 +1,7 @@
+Maze Solver Log  2026-05-09 14:55:26
+
+[OK] BFS on Random 25x17  steps=36 cost=61 nodes=208 time=0.0005s
+[OK] DFS on Random 25x17  steps=124 cost=252 nodes=158 time=0.0006s
+[OK] UCS on Random 25x17  steps=36 cost=61 nodes=198 time=0.0009s
+[OK] Greedy on Random 25x17  steps=40 cost=74 nodes=42 time=0.0001s
+[OK] A* on Random 25x17  steps=36 cost=61 nodes=167 time=0.0008s

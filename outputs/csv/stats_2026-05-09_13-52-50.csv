@@ -1,0 +1,4 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Random Hard,BFS,False,0,0,623,0.0016302000149153173,1,0.0,0.0,False,True,No path found.
+Random Hard,DFS,False,0,0,537,0.0016321000293828547,1,0.0,0.0,False,True,No path found.
+Random Hard,UCS,False,0,0,600,0.0025237000081688166,1,0.0,0.0,False,True,No path found.

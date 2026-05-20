@@ -1,0 +1,13 @@
+algo,path_len,nodes,time,success,death,deaths,limited_vis,generated,level,path_cost
+A*,53,116,0.0005021999822929502,True,False,0,False,False,Level 1,53
+BFS,53,127,0.0006412999937310815,True,False,0,False,False,Level 1,53
+UCS,53,127,0.0006275000050663948,True,False,0,False,False,Level 1,53
+Greedy,53,116,0.000567799957934767,True,False,0,False,False,Level 1,53
+A*,53,116,0.0005431000026874244,True,False,0,False,False,Level 1,53
+BFS,53,127,0.0003026999766007066,True,False,0,False,False,Level 1,53
+DFS,53,116,0.00033549999352544546,True,False,0,False,False,Level 1,53
+UCS,53,127,0.0007764999754726887,True,False,0,False,False,Level 1,53
+Greedy,53,116,0.0005746000097133219,True,False,0,False,False,Level 1,53
+A*,53,116,0.0005267999949865043,True,False,0,False,False,Level 1,53
+BFS,53,127,0.00033459998667240143,True,False,0,False,False,Level 1,53
+DFS,53,116,0.0003253000322729349,True,False,0,False,False,Level 1,53

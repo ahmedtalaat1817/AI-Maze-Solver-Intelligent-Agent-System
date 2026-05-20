@@ -1,0 +1,5 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Random 25x17,BFS,True,29,41,199,0.00042811428595866473,0,9.881273798432829e-08,2.04633928328758e-06,False,True,Goal reached.
+Random 25x17,DFS,True,79,136,297,0.0014313571404532663,1,0.012498430844770134,0.9992767995792119,False,True,Goal reached.
+Random 25x17,UCS,True,29,41,185,0.0010154428559222392,0,9.881273798432829e-08,2.04633928328758e-06,False,True,Goal reached.
+Random 25x17,Greedy,True,29,45,38,0.00011091428210160561,0,9.871931303241796e-08,2.04633928328758e-06,False,True,Goal reached.

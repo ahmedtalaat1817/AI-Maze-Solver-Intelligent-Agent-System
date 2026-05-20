@@ -1,0 +1,4 @@
+Maze Solver Log  2026-05-09 14:55:12
+
+[OK] BFS on Random 25x17  steps=36 cost=61 nodes=208 time=0.0005s
+[OK] DFS on Random 25x17  steps=124 cost=252 nodes=158 time=0.0006s

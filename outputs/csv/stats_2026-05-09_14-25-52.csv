@@ -1,0 +1,2 @@
+level,algo,success,path_len,path_cost,nodes,time,deaths,avg_risk,max_risk,limited_vis,generated,reason
+Level 1,UCS,True,26,34,92,0.0005153000238351524,0,1.2312651705534226e-16,1.824861819780552e-15,False,False,Goal reached.
